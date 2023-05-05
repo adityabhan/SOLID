@@ -6,10 +6,7 @@ The SOLID Principles are five principles of Object-Oriented class design. They a
 ## SOLID stands for: ##
 
 S : Single Responsibility <br/>
-O : Open-Closed
-
-L : Liskov Substitution
-
-I : Interface Segregation
-
-D : Dependency Inversion
+O : Open-Closed <br/>
+L : Liskov Substitution <br/>
+I : Interface Segregation <br/>
+D : Dependency Inversion <br/>
