@@ -3,10 +3,9 @@ SOLID Principles
 
 The SOLID Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
 
-SOLID stands for:
+## SOLID stands for: ##
 
-S : Single Responsibility
-
+S : Single Responsibility <br/>
 O : Open-Closed
 
 L : Liskov Substitution
