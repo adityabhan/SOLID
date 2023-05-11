@@ -1,6 +1,6 @@
 # Single Responsibility
 
-The <strong>single responsibility</strong> principle states that a class, module, or function should have only one responsibility.
+The <strong>Single Responsibility</strong> principle states that a class, module, or function should have only one responsibility.
 
 In the non_ideal.py <br/>
 

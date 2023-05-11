@@ -12,12 +12,12 @@ L : Liskov Substitution <br/>
 I : Interface Segregation <br/>
 D : Dependency Inversion <br/>
 
-## Structure of this repo
+## Structure of this reposiitory
 
-Each principle is explained in its respective directory and a directory contains an Ideal and Non-Ideal scenario.
+Each principle is explained in its respective directory which contains an Ideal and Non-Ideal scenario.
 
 For example:
 S - (Single Responsibility) directory
 
-Contains <strong>not_ideal.py</strong> to show the voilation of the principle.
+Contains <strong>not_ideal.py</strong> to show the voilation of the principle.<br/>
 And <strong>ideal.py</strong> tries to follow the principle.
