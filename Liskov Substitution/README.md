@@ -4,9 +4,9 @@ Liskov Substitution Principle (LSP) states that objects of a superclass should b
 
 In the non_ideal.py <br/>
 
-Square class is the sub class of Rectangle class, and relevant adjustments have to be made to abstract methods. For example in case of Square class setWidth should set the side of square.
+The Square class is the sub-class of the Rectangle class, and relevant adjustments have to be made to abstract methods. For example, in the case of the Square class, setWidth() and setHeight() should set the side of the square.
 
 In the ideal.py <br/>
 
-Square class directly inherits from Shape class containing get_area method.
-Any child class of Shape has to give its implementation for get_area method only.
+The Square class directly inherits from the Shape class containing the get_area method.
+Any child class of Shape has to give its implementation for the get_area method() only.
