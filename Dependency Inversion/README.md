@@ -1,10 +1,10 @@
 # Dependency Inversion
 
-The Dependency Inversion principle states that classes or entities should depend upon abstractions instead of concrete implementations (classes and functions).
+The Dependency Inversion principle states that classes or entities should depend upon abstractions instead of concrete implementations.
 
 In the non_ideal.py <br/>
 
-There is a Consumer class that consumes content produced by APIProducer. Here the implementation depends on the concrete class. In the future, if there is any change in produce_content, or there is a new Producer in such cases the concrete implementation is to change.
+There is a Consumer class that consumes content produced by APIProducer. Here the implementation depends on the concrete class. In the future, if there is any change in produce_content, or if there is a new Producer, in such cases the concrete implementation is to change.
 
 In the ideal.py <br/>
 
